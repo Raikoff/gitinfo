@@ -18,7 +18,7 @@
 
      * git add
 
-     * git comit
+     * git commit -a -m "комент"
 
     2. Смотреть состояние
 
